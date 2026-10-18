@@ -21,6 +21,10 @@ and demonstrate basic python concepts.
   3. Open the terminl.
   4. Run: python project1.py
 
+  ## Sample Output
+  ![Project Output](Output.png)
+  
+
   ## Author
   Prince Shah
   
